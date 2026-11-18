@@ -24,6 +24,7 @@ Supplementary tables for the manuscript
   primitives crossed by rules R1–R6.
 * **S5 — Ablation variants.** Table S7 states what each variant changes and which component it isolates.
 * **S6 — Convergence summary.** Table S8 gives the first-50 and last-50 episode makespan per learner.
-* **S7 — Reproducibility.**
+* **S7 — Two derivations.** The telescoping of the dense reward in (12) and the per-decision
+  cost of the network.
 
 Section, equation, figure and table numbers without the `S` prefix refer to the main text.
